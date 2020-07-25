@@ -1,7 +1,13 @@
-body{
+.P1{
     text-align: center;
     color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 60px;
     font-style: italic;
+}
+.P2{
+    background-color: crimson;
+    color: white;
+    font-size: 30px;
+    text-align: center;
 }
